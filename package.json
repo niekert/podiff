@@ -1,0 +1,11 @@
+{
+  "name": "podiff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Niek Kruse <niekkruse70@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gettext-parser": "^4.0.2",
+    "yargs": "^15.1.0"
+  }
+}
