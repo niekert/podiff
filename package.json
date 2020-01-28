@@ -1,7 +1,10 @@
 {
   "name": "podiff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "bin": {
+    "podiff": "./index.js"
+  },
   "author": "Niek Kruse <niekkruse70@gmail.com>",
   "description": "Compare the contents of a PO file to a version on a git branch and only output the differences.",
   "license": "MIT",
